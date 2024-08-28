@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cdb0e99-dad7-4b6b-a443-a3cc229fe610" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2l8xCMSobdyXVING5X8ic7t6Qz0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TypeScript.main.ts.executor": "Debug",
+    "TypeScript.runner.ts.executor": "Debug",
+    "last_opened_file_path": "/Users/dp/WebstormProjects/worker-threads-manager/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "ts.external.directory.path": "/Users/dp/WebstormProjects/worker-threads-manager/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/examples" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TypeScript.runner.ts">
+    <configuration name="runner.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="worker-threads-manager" />
+      <option name="interpreterRef" value="project" />
+      <option name="enabledTsNodeEsmLoader" value="false" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/examples" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/examples/runner.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="~/WebstormProjects/worker-threads-manager/node_modules/ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.build" />
+      <item itemvalue="TypeScript.runner.ts" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TypeScript.runner.ts" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cdb0e99-dad7-4b6b-a443-a3cc229fe610" name="Changes" comment="" />
+      <created>1724575375657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724575375657</updated>
+      <workItem from="1724575376676" duration="1914000" />
+      <workItem from="1724612633639" duration="598000" />
+      <workItem from="1724655174394" duration="560000" />
+      <workItem from="1724655738153" duration="159000" />
+      <workItem from="1724655912726" duration="25000" />
+      <workItem from="1724655951367" duration="25764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/index.d.ts" />
+        <option value="$PROJECT_DIR$/examples/main.d.ts" />
+        <option value="$PROJECT_DIR$/examples/main.js" />
+        <option value="$PROJECT_DIR$/examples/worker.d.ts" />
+        <option value="$PROJECT_DIR$/examples/worker.js" />
+        <option value="$PROJECT_DIR$/src/WorkerManager.js" />
+        <option value="$PROJECT_DIR$/src/WorkerManager.d.ts" />
+        <option value="$PROJECT_DIR$/examples/runner.d.ts" />
+        <option value="$PROJECT_DIR$/examples/runner.js" />
+        <option value="$PROJECT_DIR$/examples/worker.js.map" />
+        <option value="$PROJECT_DIR$/examples/runner.js.map" />
+        <option value="$PROJECT_DIR$/examples/main.js.map" />
+        <option value="$PROJECT_DIR$/examples/main.d.ts" />
+        <option value="$PROJECT_DIR$/examples/main.js" />
+        <option value="$PROJECT_DIR$/examples/worker.d.ts" />
+        <option value="$PROJECT_DIR$/examples/worker.js" />
+        <option value="$PROJECT_DIR$/examples/worker.js.map" />
+        <option value="$PROJECT_DIR$/examples/main.js.map" />
+        <option value="$PROJECT_DIR$/src/WorkerController.js.map" />
+        <option value="$PROJECT_DIR$/src/WorkerController.d.ts" />
+        <option value="$PROJECT_DIR$/src/WorkerManager.js.map" />
+        <option value="$PROJECT_DIR$/src/index.js.map" />
+        <option value="$PROJECT_DIR$/src/WorkerController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/examples/main.ts</url>
+          <line>14</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/examples/runner.ts</url>
+          <line>11</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/examples/main.ts</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/WorkerManager.ts</url>
+          <line>84</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/WorkerManager.ts</url>
+          <line>56</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

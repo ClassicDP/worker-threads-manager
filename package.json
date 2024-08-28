@@ -1,0 +1,34 @@
+{
+  "name": "worker-threads-manager",
+  "version": "1.0.0",
+  "description": "A TypeScript library for managing worker threads with serialization.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClassicDP/worker-threads-manager.git"
+  },
+  "keywords": [
+    "typescript",
+    "worker-threads",
+    "serialization",
+    "parallel-processing"
+  ],
+  "author": "Your Name <youremail@example.com>",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@types/node": "^22.5.0",
+    "serde-ts": "^1.0.2"
+  }
+}
